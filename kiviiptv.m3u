@@ -135,7 +135,7 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/39
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/QdNMWWuSFtQSV-QUyuZ6n2e5moiZfvfIhSL1vDsSjNdxv7-99r7ogjiWNu3HToEsuDepr4C5xHwYMPJhCFA" tvg-name="NewLine HD 1"  group-title="KURD HD",NewLine HD 1
 https://aramhd.com/images/n1.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="" tvg-name="NewLine HD 2"  group-title="KURD HD",NewLine HD 2
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="Logo N/A" tvg-name="NewLine HD 2"  group-title="KURD HD",NewLine HD 2
 https://www.aramhd.com/images/n2.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/files/23-04-2016-c02c9b27-nrt2-hd-live-kurdtvs.png" tvg-name="NRT 2 SD"  group-title="KURD SD",NRT 2 SD
@@ -272,4 +272,7 @@ http://95.170.215.120:81/utlO9pTsIjhFJ7C1lc3NYVppSVkrDHE3E6k4Hu1rF1JoWrUrq39mdHu
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ACE MOVIES FHD"  group-title="FILM",ACE MOVIES FHD
 http://95.170.215.120:81/utlO9pTsIjhFJ7C1lc3NYVppSVkrDHE3E6k4Hu1rF1JoWrUrq39mdHua52f1AAsz2tFxFraa6By6VOLWzo9V5Zgog9BNxcMVU9zoBJB1MM0dumoYQ9YlAx7Vhg13yxkdz6ARawp4awZl42Y4247wuItkEwInVmg6__ih__y4hpeLc2084uhs3v__hi__FMRX6kQ__hi__gPHO4M3o87QrDlGE5PcRVaWkvD9v__ih__In__hi____ih__UC3yhe7P__ih__pzE6rKHgUKcFb4DRsZKVYjiDWiRqtdMJErhUj1ZAwEoGobtoDhA==---/cache/ACE-Mo-LOKIJU/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein test"  group-title="New Group",Bein test
+http://188.40.137.84:80/Kivimohammed/Ali/135623?token=QhFeVBJbEANABw5SCQBfDVUCDVNXWw9ZXANTVAdSUwAKVQEAVFIGWldGFUBCFUtRAFhmDABBDVBWAlUFB0lGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFVVALCgMaFxFaVhtYRghWA1gAFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwZSDBtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQCgZRF0Q=
 
