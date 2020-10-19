@@ -48,7 +48,7 @@ http://194.32.79.172:4868/Beinsport1/index.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sports 2 SD"  group-title="SPORT",Bein Sports 2 SD
 http://194.32.79.172:4868/Beinsport2x/index.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein test 1 4K"  group-title="BEIN SPORT",Bein test 1 4K
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 1 4K"  group-title="BEIN SPORT 4K",BEIN TEST 1 4K
 http://95.216.22.239:80/Kivimohammed/Ali/135623?token=QhFeVBJbEANAVQFaUlRbUFBTCQZXUwdRBg9aBgNcVloIUQ5WWAUEWlFGFUBCFUtRAFhmDABBDVBWAlUFB0lGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1YNDQMaFxFaVhtYRghRA1kPFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwdZAxtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQCQZXF0Q=
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Biaban Movies FHD"  group-title="FILM",Biaban Movies FHD
@@ -276,7 +276,7 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ZED TV HD"  group-title="KURD HD",ZED TV HD
 http://194.32.79.172:4868/KURD:ZEKURD:TVHD/index.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 2 4K"  group-title="BEIN SPORT 4k",BEIN TEST 2 4K
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 2 4K"  group-title="BEIN SPORT 4K",BEIN TEST 2 4K
 http://88.198.55.111:80/Kivimohammed/Ali/135624?token=QhFeVBJbEANAVVsAB1AAB1YCXVZUU1JZBgYGUQcAAgEJUAEFUwIBD1VGFUBCFUtRAFhmDABBDVBWAlUFAElGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1cJDwcaFxFaVhtYRgpTA1AbGENQQREBEVkACWgHUkIMB1wbCVhADV8eGw0KZgZUDFhaBRcDR1RBG0MMRBMVDgsRVVUfFFcIR0BYFgEbWBNTCwxVFxVHBwxCDxFFGhUORy1oGx8UUBlHV1cRDVYME1sbQBIXFUcNEGgTAEQXRVEECVxLEQwXUREeGw8FQT1SDldaBFZNDAsNRENfFVIVGEcJVldaQloTbEJQBkYDQAhSCRYc
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 3 4K"  group-title="BEIN SPORT 4k",BEIN TEST 3 4K
