@@ -61,7 +61,7 @@ http://95.170.215.120/7MyRZGOpjafVqTgTyFURaR3OPpz3sljqetbLaCnNIBvUOqZfVbi5ejHhE0
 http://95.170.215.120/utlO9pTsIjhFJ7C1lc3NYVppSVkrDHE3E6k4Hu1rF1JoWrUrq39mdHua52f1AAszSTXBhv4La9JcZ4gqeevOFFxa3fEoYdSPJfO1CuyxuhhNmhDvXaNHw34PrYPXV2g1fmmEcOQur__hi__Wj4Y23R1NksfUvJz3nDHefVcNJMaAo7A6FcP44pUdczdQq__hi__Yqh__hi__JMoTXIG2rlPntu1yoNIUdHsP5B4fCPuiuGgNXGzPk6e40__hi__3ih1G2gh2Fgsy1JE__hi__niT24v7lnkN__hi__iFy4Jv5clOrsp7Q==---/cache/Biaban-SP-WB-PS/master.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Biaban FHD"  group-title="KURD HD",Biaban FHD
-http://95.170.215.120/7MyRZGOpjafVqTgTyFURaR3OPpz3sljqetbLaCnNIBvUOqZfVbi5ejHhE0k2V6LfNUslVfX5j7McgAawO5Mj52CRtvyLkEQ7vD4kCyKDhSL5qWEQjE2nR7IFz__hi__lqxhBdBbZnPAKOd4An34a9chrLFbe41SfJ10ltuG9WPgaxbhFexovzjuV0Xm37B551Ln__hi__RwdWca8uCkDZzHmPoQjfJl9UK8KK0tVKBj4nBBqr__ih__5RrpVUPSrkox8__ih__XYPSzy6NAzTlXi51XTryc__ih__4dKgW9wF7yQ==---/cache/Biab-Fam-BNNVGF/master.m3u8
+http://95.170.215.120:81/7MyRZGOpjafVqTgTyFURaR3OPpz3sljqetbLaCnNIBvUOqZfVbi5ejHhE0k2V6LfNUslVfX5j7McgAawO5Mj52CRtvyLkEQ7vD4kCyKDhSL5qWEQjE2nR7IFz__hi__lqxhBdBbZnPAKOd4An34a9chrLFbe41SfJ10ltuG9WPgaxbhFexovzjuV0Xm37B551Ln__hi__RwdWca8uCkDZzHmPoQjfJl9UK8KK0tVKBj4nBBqr__ih__5RrpVUPSrkox8__ih__XYPSzy6NAzTlXi51XTryc__ih__4dKgW9wF7yQ==---/cache/Biab-Fam-BNNVGF/master.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BININ FHD TV"  group-title="KURD HD",BININ FHD TV
 http://194.32.79.172:4868/KURD:BININHD/index.m3u8
@@ -278,4 +278,7 @@ http://194.32.79.172:4868/KURD:ZEKURD:TVHD/index.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 2 4K"  group-title="BEIN SPORT",BEIN TEST 2 4K
 http://88.198.55.111:80/Kivimohammed/Ali/135624?token=QhFeVBJbEANAVVsAB1AAB1YCXVZUU1JZBgYGUQcAAgEJUAEFUwIBD1VGFUBCFUtRAFhmDABBDVBWAlUFAElGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1cJDwcaFxFaVhtYRgpTA1AbGENQQREBEVkACWgHUkIMB1wbCVhADV8eGw0KZgZUDFhaBRcDR1RBG0MMRBMVDgsRVVUfFFcIR0BYFgEbWBNTCwxVFxVHBwxCDxFFGhUORy1oGx8UUBlHV1cRDVYME1sbQBIXFUcNEGgTAEQXRVEECVxLEQwXUREeGw8FQT1SDldaBFZNDAsNRENfFVIVGEcJVldaQloTbEJQBkYDQAhSCRYc
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
 
