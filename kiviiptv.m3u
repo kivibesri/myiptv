@@ -36,8 +36,59 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/46
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/OOcxL5aGlALYnfdK89ZJPY8vbwsjE4QQQlQYjmH4o_Po6Zffpff4Vam4auhUoEOVMSVqTU6JGKbb8OY7NV0q2IlabDCA2E9kJIFdEm8P6gu4Y4bjm4zQM89j7FLHFSkTyXZgTNo" tvg-name="BASK FHD"  group-title="KURD HD",BASK FHD
 https://live1.karwan.tv/karwan.tv/bask-tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 1 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 1 4K
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  1 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  1 4K
 http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  2 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  2 4K
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/132
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  2 HD"  group-title="BEIN SPORT HD",BEIN TEST  2 HD
+http://194.32.79.172:4868/Beinsport2x/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  3 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  3 4K
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/133
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  3 HD"  group-title="BEIN SPORT HD",BEIN TEST  3 HD
+http://194.32.79.172:4868/beinsport3ZX3/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  4 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  4 4K
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/134
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  4 HD"  group-title="BEIN SPORT HD",BEIN TEST  4 HD
+http://194.32.79.172:4868/be4/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  5 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  5 4K
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/135
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  5 HD"  group-title="BEIN SPORT HD",BEIN TEST  5 HD
+http://194.32.79.172:4868/b5/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  6 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  6 4K
+http://188.40.107.58:80/Kivimohammed/Ali/135628?token=QhFeVBJbEANABQFXBwQIAwIHWwRRBwJSV1MADlFTAAxdAlAMBwMGAVpGFUBCFUtRAFhmDABBDVBWAlUFDElGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1EMAQAaFxFaVhtYRgpTA1gBFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwFXBBtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQCQVZF0Q=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  6 HD"  group-title="BEIN SPORT HD",BEIN TEST  6 HD
+http://194.32.79.172:4868/b6/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  7 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  7 4K
+http://88.99.199.73:80/Kivimohammed/Ali/135629?token=QhFeVBJbEANABQpbAQMPBFkNAFIBV1RZUlZVAlVVAgtYAwIDBwsDDFVGFUBCFUtRAFhmDABBDVBWAlUFDUlGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1EPCQAaFxFaVhtYRgtUBVUOFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwFUDBtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQDAdQF0Q=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  7 HD"  group-title="BEIN SPORT HD",BEIN TEST  7 HD
+http://194.32.79.172:4868/b7/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  8 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  8 4K
+http://188.40.107.58:80/Kivimohammed/Ali/135630?token=QhFeVBJbEANAVlxUBFIJDVAACAFdUlNZUFQHUlZdUFtcUQAFWFICCANGFUBCFUtRAFhmDABBDVBWAlUEBElGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1INDQQaFxFaVhtYRgpTAFkLFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwFUDBtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQCQBTF0Q=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  8 HD"  group-title="BEIN SPORT HD",BEIN TEST  8 HD
+http://194.32.79.172:4868/b8s/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  9 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  9 4K
+http://188.40.107.58:80/Kivimohammed/Ali/135631?token=QhFeVBJbEANAUAoEB1FcDVVWCFIABVVTUgQGA1dQUA5cAAEBWFFTW1NGFUBCFUtRAFhmDABBDVBWAlUEBUlGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1INDwYaFxFaVhtYRgpTAFALFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwRZBhtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQCQFWF0Q=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  9 HD"  group-title="BEIN SPORT HD",BEIN TEST  9 HD
+http://194.32.79.172:4868/Beinsport9..ahceF5mALgNmAL....gN9snD9snDmALgN9snDmALgN9snDmALgN9snD/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 1 HD"  group-title="BEIN SPORT HD",BEIN TEST 1 HD
+http://194.32.79.172:4868/Beinsport1/index.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 10 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 10 4K
 http://falconiptv.com:80/Kivimohammed/Ali/135632
@@ -68,51 +119,6 @@ http://falconiptv.com:80/Kivimohammed/Ali/176400
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 14 HD"  group-title="BEIN SPORT HD",BEIN TEST 14 HD
 http://123.456.789
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 2 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 2 4K
-http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/132
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 3 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 3 4K
-http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/133
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 3 HD"  group-title="BEIN SPORT HD",BEIN TEST 3 HD
-http://194.32.79.172:4868/beinsport3ZX3/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 4 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 4 4K
-http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/134
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 4 HD"  group-title="BEIN SPORT HD",BEIN TEST 4 HD
-http://194.32.79.172:4868/be4/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 5 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 5 4K
-http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/135
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 5 HD"  group-title="BEIN SPORT HD",BEIN TEST 5 HD
-http://194.32.79.172:4868/b5/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 6 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 6 4K
-http://188.40.107.58:80/Kivimohammed/Ali/135628?token=QhFeVBJbEANABQFXBwQIAwIHWwRRBwJSV1MADlFTAAxdAlAMBwMGAVpGFUBCFUtRAFhmDABBDVBWAlUFDElGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1EMAQAaFxFaVhtYRgpTA1gBFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwFXBBtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQCQVZF0Q=
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 6 HD"  group-title="BEIN SPORT HD",BEIN TEST 6 HD
-http://194.32.79.172:4868/b6/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 7 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 7 4K
-http://88.99.199.73:80/Kivimohammed/Ali/135629?token=QhFeVBJbEANABQpbAQMPBFkNAFIBV1RZUlZVAlVVAgtYAwIDBwsDDFVGFUBCFUtRAFhmDABBDVBWAlUFDUlGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1EPCQAaFxFaVhtYRgtUBVUOFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwFUDBtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQDAdQF0Q=
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 7 HD"  group-title="BEIN SPORT HD",BEIN TEST 7 HD
-http://194.32.79.172:4868/b7/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 8 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 8 4K
-http://188.40.107.58:80/Kivimohammed/Ali/135630?token=QhFeVBJbEANAVlxUBFIJDVAACAFdUlNZUFQHUlZdUFtcUQAFWFICCANGFUBCFUtRAFhmDABBDVBWAlUEBElGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1INDQQaFxFaVhtYRgpTAFkLFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwFUDBtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQCQBTF0Q=
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 8 HD"  group-title="BEIN SPORT HD",BEIN TEST 8 HD
-http://194.32.79.172:4868/b8s/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 9 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 9 4K
-http://188.40.107.58:80/Kivimohammed/Ali/135631?token=QhFeVBJbEANAUAoEB1FcDVVWCFIABVVTUgQGA1dQUA5cAAEBWFFTW1NGFUBCFUtRAFhmDABBDVBWAlUEBUlGTEpWRGoIVxADQFUNVQhVDxZNF00MCQYVW1QBUwQFV1INDwYaFxFaVhtYRgpTAFALFk0XXB0QBkUPBFs8U1ETDVpcEQxbFF9eFUALVz1VBFRVD1EbX0ZTFU1HXhBHFl8KTFVfGhcDWkZLAxBcQAtDCwRZBhtJRgBYFAtDEU4WX0ZwaBEaFwRLRlwMF1ANX0MDFhVGG0lGCkQ+F1IQQ0YABVRcQRQPQwMQFUAJWBpuAlZaD1BaEQ0MWRJHDUEGFklGVFZdX0EOQW1JCwAbWBNQCQFWF0Q=
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 9 HD"  group-title="BEIN SPORT HD",BEIN TEST 9 HD
-http://194.32.79.172:4868/Beinsport9..ahceF5mALgNmAL....gN9snD9snDmALgN9snDmALgN9snDmALgN9snD/index.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Biaban FHD"  group-title="KURD HD",Biaban FHD
 http://95.170.215.120:81/7MyRZGOpjafVqTgTyFURaR3OPpz3sljqetbLaCnNIBvUOqZfVbi5ejHhE0k2V6LfNUslVfX5j7McgAawO5Mj52CRtvyLkEQ7vD4kCyKDhSL5qWEQjE2nR7IFz__hi__lqxhBdBbZnPAKOd4An34a9chrLFbe41SfJ10ltuG9WPgaxbhFexovzjuV0Xm37B551Ln__hi__RwdWca8uCkDZzHmPoQjfJl9UK8KK0tVKBj4nBBqr__ih__5RrpVUPSrkox8__ih__XYPSzy6NAzTlXi51XTryc__ih__4dKgW9wF7yQ==---/cache/Biab-Fam-BNNVGF/master.m3u8
@@ -338,10 +344,4 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ZED TV HD"  group-title="KURD HD",ZED TV HD
 http://194.32.79.172:4868/KURD:ZEKURD:TVHD/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 2 HD"  group-title="BEIN SPORT HD",BEIN TEST 2 HD
-http://194.32.79.172:4868/Beinsport2x/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 1 HD"  group-title="BEIN SPORT HD",BEIN TEST 1 HD
-http://194.32.79.172:4868/Beinsport1/index.m3u8
 
