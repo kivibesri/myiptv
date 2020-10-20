@@ -39,6 +39,9 @@ https://live1.karwan.tv/karwan.tv/bask-tv/playlist.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  1 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  1 4K
 http://135.181.7.83:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/11?token=HxBZV0FaGw5BUwUDDQsCUAsEUAEAAw5UAA0EUwJXVgAHUQEGUwUNVlcTHBZHRxRQU1tpX10XDVcAFBVERlFGaA1WEwwQBBsYQUVZWVERXAQEBgUECAUPXgMUFUFcUBYNRgcCBRAeG1EbRVVGWlIKalZTQF9aUBVcX01bXRkWW1k7VlRbU1xdFlkTABYYEQ9GQhQMWExZW0oTWl5FR1VAUkYIEwIHAQ8WTxNTW0FdEkdLFAwUcGQVShNdT0VQWkdeC1wTDBBGShZPE1lHa0EDRkZEU1dUUEVECxoHExkWWVYcbVJZXFxcVxdYX1pHEVwXAw4GBhsZFQteVl5FWkZrRw1WEwwQAQoFURNN
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  1 HD"  group-title="BEIN SPORT HD",BEIN TEST  1 HD
+http://194.32.79.172:4868/Beinsport1/index.m3u8
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  2 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST  2 4K
 http://135.181.7.83:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/406?token=HxBZV0FaGw5BUwkGAlcFVlRUBgINA1JSAQsHBwBQBwddCgUCV1RYBVsTHBZHRxRQU1tpX10XDVIBDhsTQEdRRTtbVRQIEA8WTxNEXVlWRA8DAAYFCwQHXwUJGxNFXVAVXhAABgUFCxZPE1VMQFYUW1NaaVJcQ14FVBoNX0BYWBtGXV9pVldUVQ1VEg4WAkQZEF9FRhsPWRNdVBsTV11ARQVGVBQIEAgAUwUJFhgRBVpHWEJEQBcNRHhpFR0XUUxDAVxCX11cGw5BRUMWGBEPRm1EU0VNR1IHXF1FEw8WBBVIEFxXSm1aWw1fVVdAWglbQRQMFAgNB1YTFBVcWlpdQwtAbkZbVhsOQQgIDQYRGw==
 
@@ -86,9 +89,6 @@ http://188.40.107.58:80/Kivimohammed/Ali/135631?token=QhFeVBJbEANAUAoEB1FcDVVWCF
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST  9 HD"  group-title="BEIN SPORT HD",BEIN TEST  9 HD
 http://194.32.79.172:4868/Beinsport9..ahceF5mALgNmAL....gN9snD9snDmALgN9snDmALgN9snDmALgN9snD/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 1 HD"  group-title="BEIN SPORT HD",BEIN TEST 1 HD
-http://194.32.79.172:4868/Beinsport1/index.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 10 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 10 4K
 http://falconiptv.com:80/Kivimohammed/Ali/135632
