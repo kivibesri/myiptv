@@ -36,7 +36,7 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/46
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/OOcxL5aGlALYnfdK89ZJPY8vbwsjE4QQQlQYjmH4o_Po6Zffpff4Vam4auhUoEOVMSVqTU6JGKbb8OY7NV0q2IlabDCA2E9kJIFdEm8P6gu4Y4bjm4zQM89j7FLHFSkTyXZgTNo" tvg-name="BASK FHD"  group-title="KURD HD",BASK FHD
 https://live1.karwan.tv/karwan.tv/bask-tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 1 4K"  group-title="BEIN SPORT 4k",BEIN TEST 1 4K
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 1 4K"  group-title="BEIN SPORT 4k by.kivi",BEIN TEST 1 4K
 http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEIN TEST 10 4K"  group-title="BEIN SPORT 4k",BEIN TEST 10 4K
