@@ -1,9 +1,1 @@
-ipv list
-
-https://textbin.net/raw/uvcTUMuku1
-
-https://glot.io/snippets/fonw5r4smu
-
-http://blackfiretv.net:25461/get.php?username=OSNBLACK&password=B1UzAKraNV&type=m3u
-
-http://178.63.48.23:25461/get.php?username=beinnairmax&password=Dcw86TYmE2&type=m3u
+https://www.google.com/search?biw=360&bih=623&tbm=vid&sxsrf=ALeKk00HWf403sbOrTwBVz1hMgHgxhSlOQ%3A1603472197512&ei=RQuTX_rNHvKErwT8ibbYDA&q=تشغيل+m3u8+على+موقعي&oq=تشغيل+m3u8+على+موقعي&gs_lcp=Cg9tb2JpbGUtZ3dzLXNlcnAQAzoHCCEQChCgAVC7MliXV2DAX2gAcAB4AIABqQaIAa4ZkgELMC4xLjcuMi42LTGYAQCgAQGqARltb2JpbGUtZ3dzLXdpei1zZXJwLW1vZGVzwAEB&sclient=mobile-gws-serp
