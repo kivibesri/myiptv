@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2020/02/afarin-kids.png" tvg-name="Afarin Kids HD"  group-title="KURD HD",Afarin Kids HD
-https://live1.karwan.tv/karwan.tv/afarin-kids/playlist.m3u8
+https://vsd78.mycdn.me/hls/933536074282.m3u8/sig/TeAp9g3fQUc/expires/1603592962199/srcIp/130.193.199.187/clientType/0/srcAg/CHROME/mid/2080425975338/video.m3u8?p
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="http://kurdtvs.net/uploads/amozhgary.png" tvg-name="AMOZHGARI SD"  group-title="KURD SD",AMOZHGARI SD
 http://82.212.74.100:8000/live/hls/8951.m3u8?checkedby:hlscat.com
