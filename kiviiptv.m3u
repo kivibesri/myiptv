@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF: KURDMAX
-https://pezanin.com/wp-content/uploads/2020/11/maxresdefault-2.jpg
+#EXTINF: KURDMAX sorani
 http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
-#EXTINF: KURDMAX
+KURDMAX BADINI
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/30.m3u8
+KURDMAX SHOW 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/32.m3u8
+
