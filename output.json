@@ -1,13 +1,25 @@
-﻿{
-  "account_id": "3636334163001",
-  "sources": [
-  {
-    "src": "http://f1.media.brightcove.com/4/36356334163001/3636334163001_3637454559001_Cascada-Teaser.mp4",
-    "container": "MP4"
-  }, {
-    "type": "application/x-mpegURL",
-    "src": "http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8"
-  }],
-  "id": "3637780364001",
-  "duration": 74700
-}
+[
+{"KURDMAX SORANI":"<img src='https://pezanin.com/wp-content/uploads/2020/11/maxresdefault-2.jpg' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>First video","file":"http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Second video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Third video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Fourth video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Fifth video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Sixth video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Seventh video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Eighth video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Ninth video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Tenth video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Eleventh video","file":"https://plrjs.com/sample.mp4"},
+
+{"title":"<img src='https://plrjs.com/sample.png' width='100%'><div style='position:absolute;right:15px;top:15px;background:#ff0000;color:#fff;padding:0px 5px;font-size:70%'>00:48</div>Twelfth video","file":"https://plrjs.com/sample.mp4"}
+]
