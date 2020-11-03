@@ -1,15 +1,1 @@
-[
-   {"title":"Season 1","folder":
-      [
-      {"title":"Serie 1/1","file":"https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"},
-      {"title":"Serie 1/2","file":"http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_200000/chunklist.m3u8"}
-      ]
-   },
-   {"title":"Season 2","folder":
-      [
-      {"title":"Serie 2/1","file":"URL"},
-      {"title":"Serie 2/2","file":"URL"}
-      ]
-   }
-]
-
+[{"title":"RUDAW TV","file":"https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"},{"title":"Serie2","file":"https://plrjs.com/sample.mp4"}]
