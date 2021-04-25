@@ -22,6 +22,9 @@ https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
 #EXTINF:-1,KR │ SPEDA TV HD+
 http://liveshell.net:1935/live/%20speda084k/chunklist_w995339802.m3u8
+#EXTINF:-1,KR │ TRT KURDI TV HD+
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1,KR │ NRT HD+
 https://media.streambrothers.com/8328/8328/chunklist_w1580430968.m3u8
 #EXTINF:-1,KR │ NRT 2 HD+
