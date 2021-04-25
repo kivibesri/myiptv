@@ -13,8 +13,8 @@ http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
 
 #EXTINF:-1,KR │ AVA HD
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8
-#EXTINF:-1,KR │ SUPER HD
-https://video1.getstreamhosting.com/8906/8906/chunklist.m3u8
+#EXTINF:-1,KR │ RENMA HD
+http://62.201.232.103:40/live/Renma/playlist.m3u8
 
 #EXTINF:-1,KR │ K 24 HD+
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
