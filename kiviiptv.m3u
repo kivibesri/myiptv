@@ -10,6 +10,10 @@ http://krdstream.com/Nubar-TVHDKRD/index.m3u8
 https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/chunklist_w1097790809_b1667072.m3u8
 #EXTINF:-1,KR │ KURDMAX SHOW HD+ KUR
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
+
+#EXTINF:-1,KR │ SUPER HD
+https://video1.getstreamhosting.com/8906/8906/chunklist.m3u8
+
 #EXTINF:-1,KR │ K 24 HD+
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 #EXTINF:-1,KR │ RÛDAW HD+
