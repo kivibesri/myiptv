@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,KR │ WAAR TV HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/52
+https://live.karwan.tv/karwan.tv/waar-tv/playlist.m3u8
 #EXTINF:-1,KR │ DUHOK TV
 http://duhoktvstream.top:1935/live/DuhokTV/playlist.m3u8
 #EXTINF:-1,KR │ KURDMAX HD+ KUR
@@ -8,29 +8,27 @@ https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/chunklist_w1097
 #EXTINF:-1,KR │ KURDMAX SHOW HD+ KUR
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
 #EXTINF:-1,KR │ K 24 HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/40
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 #EXTINF:-1,KR │ RÛDAW HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/34
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
 #EXTINF:-1,KR │ SPEDA TV HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/49
+http://liveshell.net:1935/live/%20speda084k/chunklist_w995339802.m3u8
 #EXTINF:-1,KR │ NRT HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/53
+https://media.streambrothers.com/8328/8328/chunklist_w1580430968.m3u8
 #EXTINF:-1,KR │ NRT 2 HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
-#EXTINF:-1,KR │ NET HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/39
+#EXTINF:-1,KR │ NET 4 HD+
+http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playlist.m3u8
 #EXTINF:-1,KR │ KURDSAT HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/35
+http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8
 #EXTINF:-1,KR │ KURDSAT NEWS HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/36
-#EXTINF:-1,KR │ GK TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/37
+http://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/chunklist_b3128000.m3u8
 #EXTINF:-1,KR │ KTV HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/42
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w695434122_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1,KR │ ZAGROS TV HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/48
 #EXTINF:-1,KR │ PAYAM TV HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/50
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
 #EXTINF:-1,KR │ KIRKUK TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/58
 #EXTINF:-1,KR │ SHAKROK TV
