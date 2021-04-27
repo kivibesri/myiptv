@@ -19,7 +19,7 @@ http://62.201.232.103:40/live/Renma/playlist.m3u8
 #EXTINF:-1,KR │ K 24 HD+
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 #EXTINF:-1,KR │ RÛDAW HD+
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+http://103.28.88.219:8080/mag00:1A:79:2C:33:AA/Dl3h6lKKmN/3
 #EXTINF:-1,KR │ SPEDA TV HD+
 http://liveshell.net:1935/live/%20speda084k/chunklist_w995339802.m3u8
 #EXTINF:-1,KR │ TRT KURDI TV HD+
