@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1,KR │ WAAR TV HD
-https://live.karwan.tv/karwan.tv/waar-tv/playlist.m3u8
+https://ikomg4.s.llnwi.net/waarhd/waar-hd.m3u8
 #EXTINF:-1,KR │ DUHOK TV
-http://duhoktvstream.top:1935/live/DuhokTV/playlist.m3u8
+http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w678712558.m3u8
 #EXTINF:-1,KR │ NUBAR HD
-http://krdstream.com/Nubar-TVHDKRD/index.m3u8
+http://stream.nubar.tv:1935/private/NUBARtv/chunklist_w119198321.m3u8
 #EXTINF:-1,KR │ ATV HD
 http://103.28.88.219:8080/mag00:1A:79:2C:33:AA/Dl3h6lKKmN/28027?play_token=ecmTkrh5ex&token=SUcOBxJdFl5AV1hWV1IAAAoAAlFTUwRUV1BRDVdcDQFWAFBQBwcCVAZHFREREUoDUgs8WVYVDQVbVVQDSBpBEVcXOQ8FFw5GVFEKB1FTGkoREgpdVxUNBlVUXwFWCQZaB0lEFghRFl5AVwkCUVAaShEDG0RXRVlWDzoCURJRVwcQXwgTDVkYRg0LZlcHCFkIV0RZEgIVGxUKFhYWXlZBDl5JRAQIQUYFFgAbCUBWDFQERE8SUVhCWRcXHxZeGmYtEElEAxlBUQoRDFZdQF8aEkBETxJbRGhFBhYSRgFZWQdAR1xEURcYRg8EQWwBClYIVgUXWV1ZRBVZR1cWSBpZDVwMEgkTakQNBkcDEVNdCFABRB4=
 #EXTINF:-1,KR │ KURDMAX HD+ KUR
-https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/chunklist_w1097790809_b1667072.m3u8
+https://5aa8c7549bfa9.streamlock.net/liveTrans/_definst_/KurdmaxS0rani!/chunklist_w1810754754.m3u8
 #EXTINF:-1,KR │ KURDMAX SHOW HD+ KUR
-http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW2_all/playlist.m3u8
 
 #EXTINF:-1,KR │ AVA HD
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8
-#EXTINF:-1,KR │ RENMA HD
-http://62.201.232.103:40/live/Renma/playlist.m3u8
+#EXTINF:-1,KR │ NUBAR PLUS HD
+http://stream.nubar.tv:1935/private/NUBARPlus/chunklist_w1417022705.m3u8
 
 #EXTINF:-1,KR │ K 24 HD+
 http://103.28.88.219:8080/mag00:1A:79:2C:33:AA/Dl3h6lKKmN/1160?play_token=fMPbgnZZIq&token=SUcOBxJdFl5AUlsCVwANXgBeU1RXB1YHBl1WBFcBBANUBgMCU1ZSVVNHFREREUoDUgs8WVYVDQZSU1YYRk1HB0A6DwJDDxZSVlYNAFRHFERHDw5VEA0GAVJcUwZUDwNTHkcWDwUXDkZUXQAEQEkaA0sSBkJcVltoBwAQXQddFlhcEAoKTRdbCj0BXF4DC1xECURTEh4VXkQTR1xaEVRYThAHDxITVEABQF8bC1JRC0QfRABfR1lDRRpHXBY2dxZOEAAeEgRbRw0NCxsJQBFLRB9ECkNtRVJEFxcDVQldRkAIR1ZETRdZBRo6WlwMC10FRw8MXkEVDRVSR0oWCVdaC0YKFDkRXFBGWEcIAlBQAURO
